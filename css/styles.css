@@ -1,3 +1,4 @@
+@charset "utf-8";
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -31,7 +32,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(file:///C:/Users/lotte/Desktop/2020-2021%20IMEM/PR5/GitHub/PRJ4-Chapter-6/images/restaurantjumbotron.jpg); 
+  background-image: url(file:///C:/Users/lotte/Desktop/2020-2021%20IMEM/PR5/GitHub/PRJ4-Chapter-6/images/restaurantjumbotron.jpg);
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -90,9 +91,4 @@ footer .col-sm-8 {
 
 footer ul {
   list-style: none;
-}
-
-footer li img {
-  width: 32px;
-  height: 32px;
 }
